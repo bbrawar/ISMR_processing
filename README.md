@@ -13,3 +13,10 @@ Nomenculture of concatenated file would be as following-
                             %d = day of year in three digits, Ex. 5 January then %d = 005
                             
                            Ex. concated_22001.ismr is concetinated file for 1 January 2022.
+                           
+                           
+                        
+
+
+##### 3. ismr_processing_period.ipynb
+This ipython notebook is to process the data for the required duration and provide average values of TEC for all selected days.
